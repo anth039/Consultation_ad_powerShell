@@ -153,4 +153,4 @@ function exportJSON(){
 #>
 
 #FILL YOUR DOMAIN
-loadAD("SFC")
+loadAD("x")
