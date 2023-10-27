@@ -4,7 +4,7 @@
 
 
 
-Application permettant de d'afficher les informations des utilisateurs :
+Application permettant d'afficher les informations des utilisateurs (+Filtrage & +):
   - Nom
   - Prénom
   - ID
