@@ -4,7 +4,7 @@
 
 
 
-Application permettant d'afficher les informations des utilisateurs (+Filtrage & +):
+Application permettant d'afficher les informations des utilisateurs contenu dans un Active Directory (+Filtrage & +):
   - Nom
   - Prénom
   - ID
